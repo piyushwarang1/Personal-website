@@ -9,6 +9,8 @@ gh repo clone piyushwarang1/Personal-website
 in the GitHub CLI in the terminal of your ide
 
 Want to give me suggestions or found an error?
-Create an issue in the issues section 
+Create an issue in the issues section
+
+little help is taking from ai,ai is used a an teacher.
 
 Created by Piyush warang
